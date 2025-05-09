@@ -6,7 +6,7 @@ This project leverages SQL to analyze job listings and uncover trends in hiring 
 
 ## 📝 Project Overview
 
-The main objective of this project is to gain insights into the job market using SQL queries. The dataset (assumed to be preloaded into a database) contains fields such as job titles, company names, locations, salaries, and required skills. All insights were derived through SQL queries and summarized for clarity.
+The main objective of this project is to gain insights into the job market using SQL queries. The dataset contains fields such as job titles, company names, locations, salaries, and required skills. All insights were derived through SQL queries and summarized for clarity.
 
 The analysis is performed using SQL, and key query outputs are shared as visual screenshots for easy interpretation.
 
