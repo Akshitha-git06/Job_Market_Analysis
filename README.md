@@ -85,9 +85,9 @@ Review the output or replicate your own analysis using the shared logic.
 
 Akshitha
 
-GitHub: Akshitha-git06 https://github.com/Akshitha-git06
+[LinkedIn](https://www.linkedin.com/in/akshitha-thatla-755832260/) 
 
-LinkedIn: https://www.linkedin.com/in/akshitha-thatla-755832260/
+[Github](https://github.com/Akshitha-git06)
 
 📬 Feedback: 
 If you found this useful or have suggestions for improvement, feel free to reach out.
