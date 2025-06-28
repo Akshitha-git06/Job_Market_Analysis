@@ -85,7 +85,7 @@ Review the output or replicate your own analysis using the shared logic.
 
 Akshitha
 
-[LinkedIn](https://www.linkedin.com/in/akshitha-thatla-755832260/) 
+[LinkedIn](https://www.linkedin.com/in/akshitha-thatla/) 
 
 [Github](https://github.com/Akshitha-git06)
 
